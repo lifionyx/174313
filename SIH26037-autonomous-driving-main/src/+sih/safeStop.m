@@ -1,0 +1,6 @@
+function p=safeStop(ego,c)
+t=(0:c.predDt:c.predHorizon)';
+p=struct('t',t,'x',ego(1)+zeros(size(t)),'y',ego(2)+zeros(size(t)), ...
+    'v',zeros(size(t)),'targetSpeed',0,'targetOffset',ego(2), ...
+    'accel',-c.emergencyDecel);
+end

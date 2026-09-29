@@ -1,0 +1,6 @@
+scenarioId,scenarioName,planned,executed,valid,completed,invalid,collisionEpisodes,worstTTC,worstP95LatencyMs,worstMaxJerk
+1,"Unmarked village road",12,12,12,11,0,0,0,136.81819999999999,623.59796618912435
+2,"Unsignalized urban intersection",12,12,12,12,0,0,0,130.19459999999998,629.22757354073622
+3,"Arterial slow-traffic merge",12,12,12,11,0,0,0,144.3383,620.31100749320728
+4,"Dense mixed market",12,12,12,12,0,0,0,125.93260000000001,591.49798236108541
+5,"Sudden cattle crossing",12,12,12,12,0,0,0,110.80239999999999,658.2177374245282

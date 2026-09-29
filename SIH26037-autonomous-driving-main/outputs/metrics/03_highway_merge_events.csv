@@ -1,0 +1,9 @@
+scenario,event,frame,time,behavior,ttc,speed,clearance
+3,initial,1,0,CRUISE,Inf,0,19.7
+3,cruise,16,1.5,CAUTION,2.6,3,21.9981562502028
+3,interaction,1,0,CRUISE,Inf,0,19.7
+3,prediction,1,0,CRUISE,Inf,0,19.7
+3,planning,1,0,CRUISE,Inf,0,19.7
+3,highest_risk,25,2.4,CRUISE,0,0.94609252745,22.949456934204
+3,response,24,2.3,EMERGENCY_BRAKE,0.2,1.64609252745,22.7623485956311
+3,final,282,28.1,STOP,Inf,0.828223803499082,24.9081640681973

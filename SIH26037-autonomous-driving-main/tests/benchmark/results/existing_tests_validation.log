@@ -1,0 +1,102 @@
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+{Error using assert
+Assertion failed.
+
+Error in run_tests (line 24)
+assert(any(strcmp(b.state,{'CAUTION','YIELD','EMERGENCY_BRAKE'})));
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Error in run (line 100)
+evalin('caller', strcat(scriptStem, ';'));
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+End-to-end truth smoke and metrics: PASS (x=78.10, t=14.6)
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+IDD inventory empty-data fallback: PASS
+End-to-end truth smoke and metrics: PASS (x=78.10, t=14.6)
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+IDD inventory empty-data fallback: PASS
+End-to-end truth smoke and metrics: PASS (x=78.10, t=14.6)
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+IDD inventory empty-data fallback: PASS
+End-to-end truth smoke and metrics: PASS (x=78.07, t=14.5)
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+IDD inventory empty-data fallback: PASS
+End-to-end truth smoke and metrics: PASS (x=78.07, t=14.5)
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+IDD inventory empty-data fallback: PASS
+End-to-end truth smoke and metrics: PASS (x=78.07, t=14.5)
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+IDD inventory empty-data fallback: PASS
+End-to-end truth smoke and metrics: PASS (x=78.07, t=14.5)
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+IDD inventory empty-data fallback: PASS
+End-to-end truth smoke and metrics: PASS (x=78.07, t=14.5)
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+IDD inventory empty-data fallback: PASS
+End-to-end truth smoke and metrics: PASS (x=78.07, t=14.5)
+Configuration: PASS
+Coordinate transform: PASS
+Prediction and uncertainty: PASS
+TTC, risk, behavior: PASS
+Planner and dynamic collision check: PASS
+Controller limits: PASS
+Five scenario constructors: PASS
+IDD inventory empty-data fallback: PASS
+End-to-end truth smoke and metrics: PASS (x=78.07, t=14.5)

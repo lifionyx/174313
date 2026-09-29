@@ -1,0 +1,12 @@
+Canonical VDB compatibility: PASS, ego samples=1001, decisions=201
+Dropout 1 S01: 1 detections dropped
+Dropout 1 S02: 53 detections dropped
+Dropout 2 S01: 12 detections dropped
+Dropout 2 S02: 61 detections dropped
+Dropout 3 S01: 17 detections dropped
+Dropout 3 S02: 49 detections dropped
+Dropout 4 S01: 15 detections dropped
+Dropout 4 S02: 102 detections dropped
+Dropout 5 S01: 4 detections dropped
+Dropout 5 S02: 28 detections dropped
+Image dimensions: 2400 x 1600

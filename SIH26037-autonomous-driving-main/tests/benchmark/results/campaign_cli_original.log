@@ -1,0 +1,69 @@
+COMMAND=matlab -batch "runAllTests"
+MATLAB=26.2.0.3386108 (R2026b) | release=2026b | root=C:\SIH26037
+Benchmark unit definitions: PASS (TTC, episodes, timing, jerk, timestamps, completion, aggregation)
+[Warning: The model name 'SIH_VDB_Benchmark' is shadowing another name in the MATLAB workspace or path. Type "which -all SIH_VDB_Benchmark" at the command line to find the other
+uses of this name. You should change the name of the model to avoid problems.] 
+[> In build_vdb_closed_loop (line 22)
+In runAllTests (line 35)] 
+MODEL=C:\SIH26037\tests\benchmark\SIH_VDB_Benchmark.slx
+01 Unmarked village road B00: FAIL outcome=goal C=0 TTC=0.8 L95=136.818 J=563.204 
+02 Unmarked village road N01: FAIL outcome=goal C=0 TTC=0 L95=111.589 J=450.001 
+03 Unmarked village road N02: FAIL outcome=goal C=0 TTC=0 L95=104.746 J=529.005 
+04 Unmarked village road N03: FAIL outcome=goal C=0 TTC=0 L95=104.912 J=553.036 
+05 Unmarked village road A01: FAIL outcome=goal C=0 TTC=0 L95=104.96 J=560.09 
+06 Unmarked village road A02: FAIL outcome=timeout C=0 TTC=0 L95=89.1766 J=540.392 
+07 Unmarked village road A03: FAIL outcome=goal C=0 TTC=0 L95=126.14 J=616.789 
+08 Unmarked village road A04: FAIL outcome=goal C=0 TTC=0 L95=112.323 J=517.959 
+09 Unmarked village road E01: FAIL outcome=goal C=0 TTC=0 L95=104.765 J=623.598 
+10 Unmarked village road E02: FAIL outcome=goal C=0 TTC=0 L95=93.0619 J=551.982 
+11 Unmarked village road S01: FAIL outcome=goal C=0 TTC=0.8 L95=109.796 J=563.204 
+12 Unmarked village road S02: FAIL outcome=goal C=0 TTC=0 L95=129.156 J=563.204 
+13 Unsignalized urban intersection B00: FAIL outcome=goal C=0 TTC=0 L95=130.195 J=629.228 
+14 Unsignalized urban intersection N01: FAIL outcome=goal C=0 TTC=0 L95=107.119 J=449.906 
+15 Unsignalized urban intersection N02: FAIL outcome=goal C=0 TTC=0 L95=118.676 J=449.461 
+16 Unsignalized urban intersection N03: FAIL outcome=goal C=0 TTC=0 L95=112.947 J=601.714 
+17 Unsignalized urban intersection A01: FAIL outcome=goal C=0 TTC=0 L95=118.433 J=417.924 
+18 Unsignalized urban intersection A02: FAIL outcome=goal C=0 TTC=0 L95=107.382 J=604.046 
+19 Unsignalized urban intersection A03: FAIL outcome=goal C=0 TTC=0 L95=100.068 J=566.056 
+20 Unsignalized urban intersection A04: FAIL outcome=goal C=0 TTC=0 L95=110.791 J=488.947 
+21 Unsignalized urban intersection E01: FAIL outcome=goal C=0 TTC=0 L95=109.639 J=484.636 
+22 Unsignalized urban intersection E02: FAIL outcome=goal C=0 TTC=0 L95=109.527 J=449.813 
+23 Unsignalized urban intersection S01: FAIL outcome=goal C=0 TTC=0 L95=101.29 J=629.228 
+24 Unsignalized urban intersection S02: FAIL outcome=goal C=0 TTC=0 L95=96.7108 J=629.228 
+25 Arterial slow-traffic merge B00: FAIL outcome=goal C=0 TTC=0 L95=117.04 J=547.729 
+26 Arterial slow-traffic merge N01: FAIL outcome=goal C=0 TTC=0 L95=108.82 J=484.094 
+27 Arterial slow-traffic merge N02: FAIL outcome=goal C=0 TTC=0 L95=124.606 J=593.852 
+28 Arterial slow-traffic merge N03: FAIL outcome=goal C=0 TTC=0 L95=126.9 J=620.311 
+29 Arterial slow-traffic merge A01: FAIL outcome=goal C=0 TTC=0 L95=118.523 J=418.806 
+30 Arterial slow-traffic merge A02: FAIL outcome=goal C=0 TTC=0 L95=111.864 J=602.714 
+31 Arterial slow-traffic merge A03: FAIL outcome=goal C=0 TTC=0 L95=115.627 J=586.871 
+32 Arterial slow-traffic merge A04: FAIL outcome=goal C=0 TTC=0 L95=117.941 J=526.467 
+33 Arterial slow-traffic merge E01: FAIL outcome=timeout C=0 TTC=0 L95=108.638 J=450.019 
+34 Arterial slow-traffic merge E02: FAIL outcome=goal C=0 TTC=0 L95=119.75 J=446.584 
+35 Arterial slow-traffic merge S01: FAIL outcome=goal C=0 TTC=0 L95=107.727 J=547.729 
+36 Arterial slow-traffic merge S02: FAIL outcome=goal C=0 TTC=0 L95=144.338 J=533.837 
+37 Dense mixed market B00: FAIL outcome=goal C=0 TTC=0 L95=110.257 J=584.714 
+38 Dense mixed market N01: FAIL outcome=goal C=0 TTC=0 L95=100.15 J=567.83 
+39 Dense mixed market N02: FAIL outcome=goal C=0 TTC=0 L95=112.818 J=591.498 
+40 Dense mixed market N03: FAIL outcome=goal C=0 TTC=0 L95=109.907 J=534.168 
+41 Dense mixed market A01: FAIL outcome=goal C=0 TTC=0 L95=121.793 J=554.597 
+42 Dense mixed market A02: FAIL outcome=goal C=0 TTC=0 L95=125.933 J=586.194 
+43 Dense mixed market A03: FAIL outcome=goal C=0 TTC=0 L95=106.601 J=554.597 
+44 Dense mixed market A04: FAIL outcome=goal C=0 TTC=0 L95=120.232 J=557.735 
+45 Dense mixed market E01: FAIL outcome=goal C=0 TTC=0 L95=108.534 J=531.294 
+46 Dense mixed market E02: FAIL outcome=goal C=0 TTC=0 L95=120.866 J=483.318 
+47 Dense mixed market S01: FAIL outcome=goal C=0 TTC=0 L95=113.795 J=575.903 
+48 Dense mixed market S02: FAIL outcome=goal C=0 TTC=0 L95=103.221 J=554.597 
+49 Sudden cattle crossing B00: FAIL outcome=goal C=0 TTC=0 L95=95.4206 J=553.968 
+50 Sudden cattle crossing N01: FAIL outcome=goal C=0 TTC=0 L95=110.731 J=426.01 
+51 Sudden cattle crossing N02: FAIL outcome=goal C=0 TTC=0 L95=110.355 J=608.67 
+52 Sudden cattle crossing N03: FAIL outcome=goal C=0 TTC=0 L95=104.216 J=616.246 
+53 Sudden cattle crossing A01: FAIL outcome=goal C=0 TTC=0 L95=104.235 J=556.269 
+54 Sudden cattle crossing A02: FAIL outcome=goal C=0 TTC=0 L95=102.83 J=449.898 
+55 Sudden cattle crossing A03: FAIL outcome=goal C=0 TTC=0.6 L95=108.4 J=427.458 
+56 Sudden cattle crossing A04: FAIL outcome=goal C=0 TTC=0 L95=108.449 J=658.218 
+57 Sudden cattle crossing E01: FAIL outcome=goal C=0 TTC=0 L95=98.7852 J=443.01 
+58 Sudden cattle crossing E02: FAIL outcome=goal C=0 TTC=0 L95=110.802 J=609.053 
+59 Sudden cattle crossing S01: FAIL outcome=goal C=0 TTC=0 L95=86.7966 J=553.968 
+60 Sudden cattle crossing S02: FAIL outcome=goal C=0 TTC=0 L95=109.898 J=517.38 
+CAMPAIGN=60/60 valid, 0/60 passed, 60 failed, 0 invalid

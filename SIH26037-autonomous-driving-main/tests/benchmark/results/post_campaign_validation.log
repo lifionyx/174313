@@ -1,0 +1,17 @@
+VDB probe end speed 3.745 m/s, yaw 0.000 rad
+audit_environment.m:19 [NOCOMMA] Extra comma is unnecessary.
+audit_environment.m:26 [NOCOMMA] Extra comma is unnecessary.
+audit_environment.m:38 [ALIGN] This keyword might not be aligned with its matching END on line 40.
+build_vdb_closed_loop.m:13 [ALIGN] This keyword might not be aligned with its matching END on line 18.
+runAllTests.m:11 [MSNU] A Code Analyzer message was once suppressed here, but the message is no longer generated.
+assessRisk.m:17 [ALIGN] This keyword might not be aligned with its matching END on line 19.
+exportEvidenceVideo.m:21 [NOCOMMA] Extra comma is unnecessary.
+exportVideo.m:11 [LAXES] Calling AXES(h) in a loop can be slow. Consider moving the call to AXES outside the loop.
+exportVideo.m:40 [NOCOMMA] Extra comma is unnecessary.
+generateOutputFigures.m:80 [MSNU] A Code Analyzer message was once suppressed here, but the message is no longer generated.
+planTrajectory.m:36 [MSNU] A Code Analyzer message was once suppressed here, but the message is no longer generated.
+planTrajectory.m:45 [MSNU] A Code Analyzer message was once suppressed here, but the message is no longer generated.
+planTrajectory.m:50 [MSNU] A Code Analyzer message was once suppressed here, but the message is no longer generated.
+recordVdb3D.m:65 [NOCOMMA] Extra comma is unnecessary.
+Code Analyzer parsed 67 MATLAB files; 14 diagnostics.
+Benchmark helper parse: PASS (7 files)

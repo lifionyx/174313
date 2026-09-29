@@ -1,0 +1,34 @@
+             scenarioId: 1
+           scenarioName: 'Unmarked village road'
+                 caseId: 'B00'
+                   seed: 26037
+    appliedPerturbation: 'canonical geometry; seed 26037'
+                  valid: 1
+          invalidReason: ''
+             rawOutcome: 'goal'
+      collisionEpisodes: 0
+             minimumTTC: 0.8000
+              completed: 1
+            p95ReplanMs: 145.9363
+     maxAbsPhysicalJerk: 563.2043
+          collisionPASS: 1
+                ttcPASS: 0
+         completionPASS: 1
+            latencyPASS: 0
+               jerkPASS: 0
+           Overall_PASS: 0
+                backend: 'SIH_VDB_Benchmark; Vehicle Body 3DOF Single Track'
+        codeFingerprint: 'b1826f7bd52bd4aefa03f5016314486bc7d45545ae0a04f5be49e66f43e1edea'
+          matlabRelease: '2026b'
+       thresholdVersion: 'user-proposed-strict-v1'
+        runTimestampUTC: '2026-09-26 04:11:50 +0000'
+
+         excludedTTC: 118
+            validTTC: 70
+             replans: 38
+       cameraDropped: 0
+        radarDropped: 0
+       commandedJerk: 90.0000
+    evaluatedSamples: 940
+       roadDeparture: 0
+
